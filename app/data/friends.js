@@ -9,19 +9,19 @@ var friendsArray = [{
 }, {
 	name: "Ross",
 	photo: "https://s-media-cache-ak0.pinimg.com/736x/1a/79/74/1a79743dbacf509e6f3782b587e47c53.jpg",
-	scores: [1, 1, 5, 5, 1, 1, 1, 5, 5, 5]
+	scores: [3, 5, 5, 1, 3, 2, 2, 4, 2, 3]
 }, {
 	name: "Phoebe",
 	photo: "http://images.hellogiggles.com/uploads/2015/01/27/phoebe.jpg",
-	scores: [1, 4, 3, 4, 2, 4, 1, 3, 4, 3]
+	scores: [1, 5, 1, 5, 5, 1, 1, 1, 5, 5]
 }, {
 	name: "Joey",
 	photo: "http://vignette2.wikia.nocookie.net/friends/images/6/61/Joey_friends.jpg/revision/latest?cb=20130523190938",
-	scores: [1, 4, 3, 4, 2, 4, 1, 3, 4, 3]
+	scores: [1, 1, 2, 4, 3, 5, 2, 3, 4, 3]
 }, {
 	name: "Rachel",
 	photo: "http://www.rantchic.com/wp-content/uploads/2014/07/Mr.-Rachel.jpeg",
-	scores: [1, 4, 3, 4, 2, 4, 1, 3, 4, 3]
+	scores: [1, 4, 1, 5, 2, 3, 2, 3, 5, 3]
 }];
 
 module.exports = friendsArray;
